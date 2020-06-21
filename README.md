@@ -2,4 +2,4 @@
 
 Brochure site for power the polls - built off [this jekyll theme](https://volny.github.io/creative-theme-jekyll/)
 
-# [VISIT OUR SITE](htts://powerthepolls.org)
+# [VISIT OUR SITE](https://powerthepolls.org)
